@@ -1,0 +1,17 @@
+{
+  "name": "Merkury",
+  "description": "Merkury front end preview",
+  "main": "gulpfile.js",
+  "author": "Matter's team",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "foundation-sites": "^6.4.3"
+  },
+  "devDependencies": {
+  }
+}
